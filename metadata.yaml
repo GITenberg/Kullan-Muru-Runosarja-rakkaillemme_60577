@@ -1,5 +1,8 @@
 _repo: Kullan-Muru-Runosarja-rakkaillemme_60577
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saukkonen, Alfred
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51032
     wikipedia: https://fi.wikipedia.org/wiki/Alfred_Saukkonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60577#Kullan-Muru-Runosarja-rakkaillemme
 gutenberg_issued: '2019-10-27'
 gutenberg_type: Text
 identifiers:
